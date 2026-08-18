@@ -1,1 +1,3 @@
-ini adalah halaman repository aaron
+# ini adalah halaman repository aaron
+welcome to my directory 
+
